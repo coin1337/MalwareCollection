@@ -1,0 +1,8 @@
+C:\Users\Worm\source\repos\MBR\MBR\bin\Debug\MBR.exe
+C:\Users\Worm\source\repos\MBR\MBR\bin\Debug\MBR.pdb
+C:\Users\Worm\source\repos\MBR\MBR\obj\Debug\MBR.Form1.resources
+C:\Users\Worm\source\repos\MBR\MBR\obj\Debug\MBR.Properties.Resources.resources
+C:\Users\Worm\source\repos\MBR\MBR\obj\Debug\MBR.csproj.GenerateResource.cache
+C:\Users\Worm\source\repos\MBR\MBR\obj\Debug\MBR.csproj.CoreCompileInputs.cache
+C:\Users\Worm\source\repos\MBR\MBR\obj\Debug\MBR.exe
+C:\Users\Worm\source\repos\MBR\MBR\obj\Debug\MBR.pdb

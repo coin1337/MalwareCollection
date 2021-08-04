@@ -1,0 +1,11 @@
+C:\Users\Worm\source\repos\Clutt4\Clutt4\obj\Debug\Clutt4.Clutt4.resources
+C:\Users\Worm\source\repos\Clutt4\Clutt4\obj\Debug\Clutt4.Payload_start.resources
+C:\Users\Worm\source\repos\Clutt4\Clutt4\obj\Debug\Clutt4.Properties.Resources.resources
+C:\Users\Worm\source\repos\Clutt4\Clutt4\obj\Debug\Clutt4.csproj.GenerateResource.cache
+C:\Users\Worm\source\repos\Clutt4\Clutt4\obj\Debug\Clutt4.csproj.CoreCompileInputs.cache
+C:\Users\Worm\source\repos\Clutt4\Clutt4\obj\Debug\Clutt4.system32.resources
+C:\Users\Worm\source\repos\Clutt4\Clutt4\bin\Debug\Clutt4.exe
+C:\Users\Worm\source\repos\Clutt4\Clutt4\bin\Debug\Clutt4.pdb
+C:\Users\Worm\source\repos\Clutt4\Clutt4\obj\Debug\Clutt4.exe
+C:\Users\Worm\source\repos\Clutt4\Clutt4\obj\Debug\Clutt4.pdb
+C:\Users\Worm\source\repos\Clutt4\Clutt4\obj\Debug\Clutt4.csprojAssemblyReference.cache

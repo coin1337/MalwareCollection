@@ -1,0 +1,8 @@
+C:\Users\Worm\source\repos\media_snd\media_snd\bin\Debug\media_snd.exe
+C:\Users\Worm\source\repos\media_snd\media_snd\bin\Debug\media_snd.pdb
+C:\Users\Worm\source\repos\media_snd\media_snd\obj\Debug\media_snd.MEDIA.resources
+C:\Users\Worm\source\repos\media_snd\media_snd\obj\Debug\media_snd.Properties.Resources.resources
+C:\Users\Worm\source\repos\media_snd\media_snd\obj\Debug\media_snd.csproj.GenerateResource.cache
+C:\Users\Worm\source\repos\media_snd\media_snd\obj\Debug\media_snd.csproj.CoreCompileInputs.cache
+C:\Users\Worm\source\repos\media_snd\media_snd\obj\Debug\media_snd.exe
+C:\Users\Worm\source\repos\media_snd\media_snd\obj\Debug\media_snd.pdb
